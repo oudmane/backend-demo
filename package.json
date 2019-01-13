@@ -1,0 +1,18 @@
+{
+  "name": "backend-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "backend serve"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@oudy/backend": "^1.0.1",
+    "@oudy/backend-component-entity": "^1.0.1",
+    "@oudy/entity-mongodb": "^1.0.2",
+    "@oudy/mongodb": "^1.0.3",
+    "mongodb": "^3.1.10"
+  }
+}
